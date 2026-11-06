@@ -172,3 +172,26 @@ Keynote insert listImage MbPro. | 2394B140-7ADF-465D-B289-682EF8849BC3 |groupUUI
 Old size: 33245 bytes
 New size: 33243 bytes
 ——————————————
+ 20261106_14:43 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+[AFDES] Back One Move selected . | 5D07C4AD-0C5C-41B5-A16B-7694A53E73E4 |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: [AFDES] Back One Move selected .kmmacros
+Old size: stat: /Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros/[AFDES] Back One Move selected .kmmacros: stat: No such file or directory
+0 bytes
+New size: 3823 bytes
+——————————————
+20261106_14:43 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+[AFDES] Forward One Move selected . | 0CAD9FA5-83C5-45B1-AE24-47C2A1A47D6A |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: [AFDES] Forward One Move selected .kmmacros
+Old size: stat: /Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros/[AFDES] Forward One Move selected .kmmacros: stat: No such file or directory
+0 bytes
+New size: 3832 bytes
+——————————————
+ 20261106_18:41 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+ik_2MoveImage+ imageSpa SHUFFLE [Claude Import Test]3.0. | 1035C7C6-C8B6-4627-8C7D-7C13DEE2509F |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: ik_2MoveImage+ imageSpa SHUFFLE [Claude Import Test]3.0.kmmacros
+Old size: 81304 bytes
+New size: 71631 bytes
+——————————————
