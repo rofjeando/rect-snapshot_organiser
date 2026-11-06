@@ -203,3 +203,10 @@ Old size: stat: /Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-sn
 0 bytes
 New size: 71610 bytes
 ——————————————
+ 20261106_18:50 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+ik_2MoveImage+ imageSpa SHUFFLE3.0. | 1035C7C6-C8B6-4627-8C7D-7C13DEE2509F |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: ik_2MoveImage+ imageSpa SHUFFLE3.0.kmmacros
+Old size: 71610 bytes
+New size: 71708 bytes
+——————————————

@@ -151,7 +151,7 @@
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
-							<string>3</string>
+							<string>1</string>
 							<key>Variable</key>
 							<string>afDesign_shufflePause</string>
 						</dict>
@@ -284,7 +284,8 @@
 					<key>MacroActionType</key>
 					<string>PromptForUserInput</string>
 					<key>Prompt</key>
-					<string>Shuffle before/after?</string>
+					<string>Shuffle before/after?
+CHECK: For the macro to work, the different images must be one after the other in the layer panel</string>
 					<key>TimeOutAbortsMacro</key>
 					<true/>
 					<key>Title</key>
@@ -2323,7 +2324,7 @@
 	<key>CustomIconData</key>
 	<string>KMEC=Square=KMCOLOR:102,204,255,255=function=86=-2=0=3=KMCOLOR:255,255,255,255</string>
 	<key>ModificationDate</key>
-	<real>815679836.35369301</real>
+	<real>815680191.63951004</real>
 	<key>Name</key>
 	<string>ik_2MoveImage+ imageSpa SHUFFLE3.0</string>
 	<key>Triggers</key>
