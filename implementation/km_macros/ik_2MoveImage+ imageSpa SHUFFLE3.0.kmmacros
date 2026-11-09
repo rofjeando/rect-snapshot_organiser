@@ -13,22 +13,28 @@
 			<string>Comment</string>
 			<key>StyledText</key>
 			<data>
-			cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4GAgAAKwAA
-			AAEAAAD+AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2Fy
-			dGYyODY1Clxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3Jt
+			cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7+AgAAKwAA
+			AAEAAAD2AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2Fy
+			dGYyOTA3Clxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3Jt
 			MHtcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGlj
 			YTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1
 			O1xyZWQwXGdyZWVuMFxibHVlMDt9CntcKlxleHBhbmRlZGNvbG9y
 			dGJsOztcY3NzcmdiXGMwXGMwXGMwXGM4NDcwNlxjbmFtZSBjb250
-			cm9sVGV4dENvbG9yO30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4
-			MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4
-			NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFs
-			XHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMzN1xmc21pbGxpMTg5
-			MDkgXGNmMiBhcyB0aGUgY29vcmRpbmF0ZXMgYXJlIHJlbGF0aXZl
-			IHRvIHRoZSBwb3NpdGlvbiBvZiBhZmZpbml0eSBkZXNpZ25lciwg
-			SSBkbyBub3QgbmVlZCB0byBjaGVjayBmb3IgdGhlIG51bWJlciBv
-			ZiBzY3JlZW5zLiB9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA
-			mUH7aLYBAAAAAAAAAAAAAA==
+			cm9sVGV4dENvbG9yO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0
+			YWI3MjBccGFydGlnaHRlbmZhY3RvcjAKe1xmaWVsZHtcKlxmbGRp
+			bnN0e0hZUEVSTElOSyAiaG9vazovL2ZpbGUvRmc2YTlLWXB3P3A9
+			UkhKdmNHSnZlQzkwYzNWcllRPT0mbj1Xb3Jrc2hvcCU1Rm9yZ2Fu
+			aXNlciUyMFNodWZmbGUlMjBDYXB0dXJlJTJFbWQifX17XGZsZHJz
+			bHQgClxmMFxmczI0IFxjZjAgV29ya3Nob3Bfb3JnYW5pc2VyIFNo
+			dWZmbGUgQ2FwdHVyZS5tZH19ClxmMFxmczM3XGZzbWlsbGkxODkw
+			OSBcY2YyIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIy
+			NDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+			eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRp
+			Z2h0ZW5mYWN0b3IwClxjZjIgXAphcyB0aGUgY29vcmRpbmF0ZXMg
+			YXJlIHJlbGF0aXZlIHRvIHRoZSBwb3NpdGlvbiBvZiBhZmZpbml0
+			eSBkZXNpZ25lciwgSSBkbyBub3QgbmVlZCB0byBjaGVjayBmb3Ig
+			dGhlIG51bWJlciBvZiBzY3JlZW5zLiBcCn0BAAAAIwAAAAEAAAAH
+			AAAAVFhULnJ0ZhAAAAC7G+9qtgEAAAAAAAAAAAAA
 			</data>
 			<key>Title</key>
 			<string>explanation: SHUFFLE copy of ALTERNATIVE. Yes: place at x+0, Forward/Back x2 (afDesign_shufflePause), prompt for more, then x+spacing.</string>
@@ -113,14 +119,14 @@
 			<key>ActionName</key>
 			<string>SHUFFLE: ask + default pause</string>
 			<key>ActionUID</key>
-			<integer>400039220</integer>
+			<integer>400040840</integer>
 			<key>Actions</key>
 			<array>
 				<dict>
 					<key>ActionName</key>
 					<string>Default shuffle pause = 3 s</string>
 					<key>ActionUID</key>
-					<integer>400039221</integer>
+					<integer>400040841</integer>
 					<key>Conditions</key>
 					<dict>
 						<key>ConditionList</key>
@@ -147,7 +153,7 @@
 					<array>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039222</integer>
+							<integer>400040842</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -163,7 +169,7 @@
 					<key>ActionName</key>
 					<string>Default prompt X (LG)</string>
 					<key>ActionUID</key>
-					<integer>400039223</integer>
+					<integer>400040843</integer>
 					<key>Conditions</key>
 					<dict>
 						<key>ConditionList</key>
@@ -190,7 +196,7 @@
 					<array>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039224</integer>
+							<integer>400040844</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -206,7 +212,7 @@
 					<key>ActionName</key>
 					<string>Default prompt Y (LG)</string>
 					<key>ActionUID</key>
-					<integer>400039225</integer>
+					<integer>400040845</integer>
 					<key>Conditions</key>
 					<dict>
 						<key>ConditionList</key>
@@ -233,7 +239,7 @@
 					<array>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039226</integer>
+							<integer>400040846</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -249,7 +255,7 @@
 					<key>Action</key>
 					<string>MoveWindowTo</string>
 					<key>ActionUID</key>
-					<integer>400039227</integer>
+					<integer>400040847</integer>
 					<key>HeightExpression</key>
 					<string>300</string>
 					<key>HorizontalExpression</key>
@@ -263,16 +269,16 @@
 				</dict>
 				<dict>
 					<key>ActionUID</key>
-					<integer>400039228</integer>
+					<integer>400040848</integer>
 					<key>Buttons</key>
 					<array>
 						<dict>
 							<key>Button</key>
-							<string>Yes/</string>
+							<string>Yes/Y</string>
 						</dict>
 						<dict>
 							<key>Button</key>
-							<string>No/N</string>
+							<string>No/</string>
 						</dict>
 						<dict>
 							<key>Button</key>
@@ -284,8 +290,7 @@
 					<key>MacroActionType</key>
 					<string>PromptForUserInput</string>
 					<key>Prompt</key>
-					<string>Shuffle before/after?
-CHECK: For the macro to work, the different images must be one after the other in the layer panel</string>
+					<string>Shuffle before/after?CHECK: For the macro to work, the different images must be one after the other in the layer panel</string>
 					<key>TimeOutAbortsMacro</key>
 					<true/>
 					<key>Title</key>
@@ -295,7 +300,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 				</dict>
 				<dict>
 					<key>ActionUID</key>
-					<integer>400039229</integer>
+					<integer>400040849</integer>
 					<key>MacroActionType</key>
 					<string>SetVariableToText</string>
 					<key>Text</key>
@@ -313,12 +318,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 			<key>ActionName</key>
 			<string>Paste X Y W and R</string>
 			<key>ActionUID</key>
-			<integer>400039230</integer>
+			<integer>400040851</integer>
 			<key>Actions</key>
 			<array>
 				<dict>
 					<key>ActionUID</key>
-					<integer>400039231</integer>
+					<integer>400040852</integer>
 					<key>AllWindows</key>
 					<true/>
 					<key>AlreadyActivatedActionType</key>
@@ -343,14 +348,14 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionName</key>
 					<string>Set StreamDeck</string>
 					<key>ActionUID</key>
-					<integer>400039232</integer>
+					<integer>400040853</integer>
 					<key>Actions</key>
 					<array>
 						<dict>
 							<key>ActionColor</key>
 							<string>Purple</string>
 							<key>ActionUID</key>
-							<integer>400039233</integer>
+							<integer>400040854</integer>
 							<key>ButtonID</key>
 							<string>R2C12</string>
 							<key>FromType</key>
@@ -362,7 +367,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionColor</key>
 							<string>Purple</string>
 							<key>ActionUID</key>
-							<integer>400039234</integer>
+							<integer>400040855</integer>
 							<key>ButtonID</key>
 							<string>R2C12</string>
 							<key>MacroActionType</key>
@@ -374,7 +379,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>Action</key>
 							<string>CancelJustThisMacro</string>
 							<key>ActionUID</key>
-							<integer>400039235</integer>
+							<integer>400040856</integer>
 							<key>IsActive</key>
 							<false/>
 							<key>MacroActionType</key>
@@ -390,7 +395,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionColor</key>
 					<string>Red</string>
 					<key>ActionUID</key>
-					<integer>400039236</integer>
+					<integer>400040857</integer>
 					<key>MacroActionType</key>
 					<string>Comment</string>
 					<key>StyledText</key>
@@ -425,7 +430,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionColor</key>
 					<string>Red</string>
 					<key>ActionUID</key>
-					<integer>400039237</integer>
+					<integer>400040858</integer>
 					<key>MacroActionType</key>
 					<string>SetVariableToText</string>
 					<key>Text</key>
@@ -439,7 +444,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionName</key>
 					<string>Add imageSpacing to imageX</string>
 					<key>ActionUID</key>
-					<integer>400039238</integer>
+					<integer>400040859</integer>
 					<key>Actions</key>
 					<array>
 						<dict>
@@ -448,7 +453,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionColor</key>
 							<string>Teal</string>
 							<key>ActionUID</key>
-							<integer>400039239</integer>
+							<integer>400040860</integer>
 							<key>MacroActionType</key>
 							<string>SearchReplace</string>
 							<key>Replace</key>
@@ -464,7 +469,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 						</dict>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039240</integer>
+							<integer>400040861</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -478,7 +483,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionColor</key>
 							<string>Teal</string>
 							<key>ActionUID</key>
-							<integer>400039241</integer>
+							<integer>400040862</integer>
 							<key>MacroActionType</key>
 							<string>SearchReplace</string>
 							<key>Replace</key>
@@ -494,7 +499,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 						</dict>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039242</integer>
+							<integer>400040863</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToCalculation</string>
 							<key>Text</key>
@@ -506,14 +511,14 @@ CHECK: For the macro to work, the different images must be one after the other i
 						</dict>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039243</integer>
+							<integer>400040864</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>Action</key>
 									<string>DisplayWindow</string>
 									<key>ActionUID</key>
-									<integer>400039244</integer>
+									<integer>400040865</integer>
 									<key>MacroActionType</key>
 									<string>InsertText</string>
 									<key>StyledText</key>
@@ -585,17 +590,17 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039245</integer>
+									<integer>400040866</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
-									<string>2</string>
+									<string>0.3</string>
 									<key>TimeOutAbortsMacro</key>
 									<true/>
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039246</integer>
+									<integer>400040867</integer>
 									<key>KeyCode</key>
 									<integer>36</integer>
 									<key>MacroActionType</key>
@@ -629,7 +634,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionName</key>
 					<string>SHUFFLE Yes: place at x+0 first</string>
 					<key>ActionUID</key>
-					<integer>400039247</integer>
+					<integer>400040868</integer>
 					<key>Conditions</key>
 					<dict>
 						<key>ConditionList</key>
@@ -656,7 +661,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<array>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039248</integer>
+							<integer>400040869</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -672,7 +677,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionColor</key>
 					<string>Magenta</string>
 					<key>ActionUID</key>
-					<integer>400039249</integer>
+					<integer>400040870</integer>
 					<key>Asynchronously</key>
 					<false/>
 					<key>MacroActionType</key>
@@ -688,7 +693,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 					<key>ActionName</key>
 					<string>Paste X,Y,W,H,R</string>
 					<key>ActionUID</key>
-					<integer>400039250</integer>
+					<integer>400040871</integer>
 					<key>Actions</key>
 					<array>
 						<dict>
@@ -697,14 +702,14 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>Paste X</string>
 							<key>ActionUID</key>
-							<integer>400039251</integer>
+							<integer>400040872</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039252</integer>
+									<integer>400040873</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -738,7 +743,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039253</integer>
+									<integer>400040874</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -772,7 +777,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>ByPasting</string>
 									<key>ActionUID</key>
-									<integer>400039254</integer>
+									<integer>400040875</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>IsDisclosed</key>
@@ -786,12 +791,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Insert imageX By Pasting + pauseDelete</string>
 									<key>ActionUID</key>
-									<integer>400039255</integer>
+									<integer>400040876</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039256</integer>
+											<integer>400040877</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToCalculation</string>
 											<key>Text</key>
@@ -805,7 +810,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039257</integer>
+											<integer>400040878</integer>
 											<key>MacroActionType</key>
 											<string>InsertText</string>
 											<key>Text</key>
@@ -813,7 +818,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039258</integer>
+											<integer>400040879</integer>
 											<key>Conditions</key>
 											<dict>
 												<key>ConditionList</key>
@@ -835,7 +840,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039259</integer>
+											<integer>400040880</integer>
 											<key>MacroActionType</key>
 											<string>DeletePastClipboard</string>
 											<key>PastExpression</key>
@@ -859,12 +864,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>Paste Y</string>
 							<key>ActionUID</key>
-							<integer>400039260</integer>
+							<integer>400040881</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039261</integer>
+									<integer>400040882</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -891,7 +896,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039262</integer>
+									<integer>400040883</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -925,7 +930,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039263</integer>
+									<integer>400040884</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -957,7 +962,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039264</integer>
+									<integer>400040885</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
@@ -967,7 +972,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039265</integer>
+									<integer>400040886</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>KeyCode</key>
@@ -987,7 +992,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>ByPasting</string>
 									<key>ActionUID</key>
-									<integer>400039266</integer>
+									<integer>400040887</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>IsDisclosed</key>
@@ -1001,12 +1006,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Insert imageY By Pasting + pauseDelete</string>
 									<key>ActionUID</key>
-									<integer>400039267</integer>
+									<integer>400040888</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039268</integer>
+											<integer>400040889</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToCalculation</string>
 											<key>Text</key>
@@ -1020,7 +1025,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039269</integer>
+											<integer>400040890</integer>
 											<key>MacroActionType</key>
 											<string>InsertText</string>
 											<key>Text</key>
@@ -1028,7 +1033,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039270</integer>
+											<integer>400040891</integer>
 											<key>Conditions</key>
 											<dict>
 												<key>ConditionList</key>
@@ -1050,7 +1055,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039271</integer>
+											<integer>400040892</integer>
 											<key>MacroActionType</key>
 											<string>DeletePastClipboard</string>
 											<key>PastExpression</key>
@@ -1076,12 +1081,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>Paste W</string>
 							<key>ActionUID</key>
-							<integer>400039272</integer>
+							<integer>400040893</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039273</integer>
+									<integer>400040894</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -1108,7 +1113,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039274</integer>
+									<integer>400040895</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1142,7 +1147,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039275</integer>
+									<integer>400040896</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1174,7 +1179,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039276</integer>
+									<integer>400040897</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
@@ -1186,7 +1191,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>ByPasting</string>
 									<key>ActionUID</key>
-									<integer>400039277</integer>
+									<integer>400040898</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>IsDisclosed</key>
@@ -1200,12 +1205,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Insert imageW By Pasting + pauseDelete</string>
 									<key>ActionUID</key>
-									<integer>400039278</integer>
+									<integer>400040899</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039279</integer>
+											<integer>400040900</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToCalculation</string>
 											<key>Text</key>
@@ -1219,7 +1224,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039280</integer>
+											<integer>400040901</integer>
 											<key>MacroActionType</key>
 											<string>InsertText</string>
 											<key>Text</key>
@@ -1227,7 +1232,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039281</integer>
+											<integer>400040902</integer>
 											<key>Conditions</key>
 											<dict>
 												<key>ConditionList</key>
@@ -1249,7 +1254,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039282</integer>
+											<integer>400040903</integer>
 											<key>MacroActionType</key>
 											<string>DeletePastClipboard</string>
 											<key>PastExpression</key>
@@ -1275,12 +1280,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>Paste H</string>
 							<key>ActionUID</key>
-							<integer>400039283</integer>
+							<integer>400040904</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039284</integer>
+									<integer>400040905</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -1307,7 +1312,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039285</integer>
+									<integer>400040906</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1341,7 +1346,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039286</integer>
+									<integer>400040907</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1373,7 +1378,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039287</integer>
+									<integer>400040908</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
@@ -1385,7 +1390,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>ByPasting</string>
 									<key>ActionUID</key>
-									<integer>400039288</integer>
+									<integer>400040909</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>IsDisclosed</key>
@@ -1399,12 +1404,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Insert imageH By Pasting + pauseDelete</string>
 									<key>ActionUID</key>
-									<integer>400039289</integer>
+									<integer>400040910</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039290</integer>
+											<integer>400040911</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToCalculation</string>
 											<key>Text</key>
@@ -1418,7 +1423,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039291</integer>
+											<integer>400040912</integer>
 											<key>MacroActionType</key>
 											<string>InsertText</string>
 											<key>Text</key>
@@ -1426,7 +1431,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039292</integer>
+											<integer>400040913</integer>
 											<key>Conditions</key>
 											<dict>
 												<key>ConditionList</key>
@@ -1448,7 +1453,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039293</integer>
+											<integer>400040914</integer>
 											<key>MacroActionType</key>
 											<string>DeletePastClipboard</string>
 											<key>PastExpression</key>
@@ -1472,12 +1477,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>Paste R</string>
 							<key>ActionUID</key>
-							<integer>400039294</integer>
+							<integer>400040915</integer>
 							<key>Actions</key>
 							<array>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039295</integer>
+									<integer>400040916</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -1504,7 +1509,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039296</integer>
+									<integer>400040917</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1538,7 +1543,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>MoveAndClick</string>
 									<key>ActionUID</key>
-									<integer>400039297</integer>
+									<integer>400040918</integer>
 									<key>Button</key>
 									<integer>0</integer>
 									<key>ClickCount</key>
@@ -1570,7 +1575,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039298</integer>
+									<integer>400040919</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
@@ -1582,7 +1587,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>Action</key>
 									<string>ByPasting</string>
 									<key>ActionUID</key>
-									<integer>400039299</integer>
+									<integer>400040920</integer>
 									<key>IsActive</key>
 									<false/>
 									<key>IsDisclosed</key>
@@ -1596,12 +1601,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Insert imageR By Pasting + pauseDelete</string>
 									<key>ActionUID</key>
-									<integer>400039300</integer>
+									<integer>400040921</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039301</integer>
+											<integer>400040922</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToCalculation</string>
 											<key>Text</key>
@@ -1615,7 +1620,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039302</integer>
+											<integer>400040923</integer>
 											<key>MacroActionType</key>
 											<string>InsertText</string>
 											<key>Text</key>
@@ -1623,7 +1628,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039303</integer>
+											<integer>400040924</integer>
 											<key>Conditions</key>
 											<dict>
 												<key>ConditionList</key>
@@ -1645,7 +1650,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039304</integer>
+											<integer>400040925</integer>
 											<key>MacroActionType</key>
 											<string>DeletePastClipboard</string>
 											<key>PastExpression</key>
@@ -1667,7 +1672,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionColor</key>
 							<string>Yellow</string>
 							<key>ActionUID</key>
-							<integer>400039305</integer>
+							<integer>400040926</integer>
 							<key>KeyCode</key>
 							<integer>36</integer>
 							<key>MacroActionType</key>
@@ -1687,7 +1692,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionName</key>
 							<string>SHUFFLE sequence (Forward first, ends with the new image in front), then move to x+spacing and Back One to restore layer order</string>
 							<key>ActionUID</key>
-							<integer>300000144</integer>
+							<integer>400040927</integer>
 							<key>Conditions</key>
 							<dict>
 								<key>ConditionList</key>
@@ -1714,7 +1719,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<array>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039306</integer>
+									<integer>400040928</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -1737,7 +1742,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>400039307</integer>
+									<integer>400040929</integer>
 									<key>MacroActionType</key>
 									<string>SelectMenuItem</string>
 									<key>Menu</key>
@@ -1760,7 +1765,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000137</integer>
+									<integer>400040930</integer>
 									<key>MacroActionType</key>
 									<string>Pause</string>
 									<key>Time</key>
@@ -1770,7 +1775,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000138</integer>
+									<integer>400040931</integer>
 									<key>MacroActionType</key>
 									<string>SetVariableToText</string>
 									<key>Text</key>
@@ -1782,12 +1787,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Shuffle until Place</string>
 									<key>ActionUID</key>
-									<integer>400039308</integer>
+									<integer>400040932</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039309</integer>
+											<integer>400040933</integer>
 											<key>AllWindows</key>
 											<true/>
 											<key>AlreadyActivatedActionType</key>
@@ -1810,7 +1815,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039310</integer>
+											<integer>400040934</integer>
 											<key>MacroActionType</key>
 											<string>SelectMenuItem</string>
 											<key>Menu</key>
@@ -1833,7 +1838,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039311</integer>
+											<integer>400040935</integer>
 											<key>MacroActionType</key>
 											<string>Pause</string>
 											<key>Time</key>
@@ -1843,7 +1848,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039312</integer>
+											<integer>400040936</integer>
 											<key>MacroActionType</key>
 											<string>SelectMenuItem</string>
 											<key>Menu</key>
@@ -1866,7 +1871,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039313</integer>
+											<integer>400040937</integer>
 											<key>MacroActionType</key>
 											<string>Pause</string>
 											<key>Time</key>
@@ -1876,7 +1881,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039314</integer>
+											<integer>400040938</integer>
 											<key>MacroActionType</key>
 											<string>SelectMenuItem</string>
 											<key>Menu</key>
@@ -1899,7 +1904,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039315</integer>
+											<integer>400040939</integer>
 											<key>MacroActionType</key>
 											<string>Pause</string>
 											<key>Time</key>
@@ -1909,7 +1914,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039316</integer>
+											<integer>400040940</integer>
 											<key>MacroActionType</key>
 											<string>SelectMenuItem</string>
 											<key>Menu</key>
@@ -1932,7 +1937,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039317</integer>
+											<integer>400040941</integer>
 											<key>MacroActionType</key>
 											<string>Pause</string>
 											<key>Time</key>
@@ -1944,7 +1949,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>MoveWindowTo</string>
 											<key>ActionUID</key>
-											<integer>400039318</integer>
+											<integer>400040942</integer>
 											<key>HeightExpression</key>
 											<string>300</string>
 											<key>HorizontalExpression</key>
@@ -1958,7 +1963,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039319</integer>
+											<integer>400040943</integer>
 											<key>Buttons</key>
 											<array>
 												<dict>
@@ -1989,7 +1994,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 										</dict>
 										<dict>
 											<key>ActionUID</key>
-											<integer>400039320</integer>
+											<integer>400040944</integer>
 											<key>MacroActionType</key>
 											<string>SetVariableToText</string>
 											<key>Text</key>
@@ -2023,7 +2028,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000139</integer>
+									<integer>400040945</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -2046,7 +2051,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000140</integer>
+									<integer>400040946</integer>
 									<key>MacroActionType</key>
 									<string>SetVariableToCalculation</string>
 									<key>Text</key>
@@ -2062,14 +2067,14 @@ CHECK: For the macro to work, the different images must be one after the other i
 									<key>ActionName</key>
 									<string>Paste X</string>
 									<key>ActionUID</key>
-									<integer>400039321</integer>
+									<integer>400040947</integer>
 									<key>Actions</key>
 									<array>
 										<dict>
 											<key>Action</key>
 											<string>MoveAndClick</string>
 											<key>ActionUID</key>
-											<integer>400039322</integer>
+											<integer>400040948</integer>
 											<key>Button</key>
 											<integer>0</integer>
 											<key>ClickCount</key>
@@ -2103,7 +2108,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>MoveAndClick</string>
 											<key>ActionUID</key>
-											<integer>400039323</integer>
+											<integer>400040949</integer>
 											<key>Button</key>
 											<integer>0</integer>
 											<key>ClickCount</key>
@@ -2137,7 +2142,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>Action</key>
 											<string>ByPasting</string>
 											<key>ActionUID</key>
-											<integer>400039324</integer>
+											<integer>400040950</integer>
 											<key>IsActive</key>
 											<false/>
 											<key>IsDisclosed</key>
@@ -2151,12 +2156,12 @@ CHECK: For the macro to work, the different images must be one after the other i
 											<key>ActionName</key>
 											<string>Insert imageX By Pasting + pauseDelete</string>
 											<key>ActionUID</key>
-											<integer>400039325</integer>
+											<integer>400040951</integer>
 											<key>Actions</key>
 											<array>
 												<dict>
 													<key>ActionUID</key>
-													<integer>400039326</integer>
+													<integer>400040952</integer>
 													<key>MacroActionType</key>
 													<string>SetVariableToCalculation</string>
 													<key>Text</key>
@@ -2170,7 +2175,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 													<key>Action</key>
 													<string>ByPasting</string>
 													<key>ActionUID</key>
-													<integer>400039327</integer>
+													<integer>400040953</integer>
 													<key>MacroActionType</key>
 													<string>InsertText</string>
 													<key>Text</key>
@@ -2178,7 +2183,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 												</dict>
 												<dict>
 													<key>ActionUID</key>
-													<integer>400039328</integer>
+													<integer>400040954</integer>
 													<key>Conditions</key>
 													<dict>
 														<key>ConditionList</key>
@@ -2200,7 +2205,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 												</dict>
 												<dict>
 													<key>ActionUID</key>
-													<integer>400039329</integer>
+													<integer>400040955</integer>
 													<key>MacroActionType</key>
 													<string>DeletePastClipboard</string>
 													<key>PastExpression</key>
@@ -2220,7 +2225,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000141</integer>
+									<integer>400040956</integer>
 									<key>KeyCode</key>
 									<integer>36</integer>
 									<key>MacroActionType</key>
@@ -2236,7 +2241,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000142</integer>
+									<integer>400040957</integer>
 									<key>AllWindows</key>
 									<true/>
 									<key>AlreadyActivatedActionType</key>
@@ -2259,7 +2264,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 								</dict>
 								<dict>
 									<key>ActionUID</key>
-									<integer>300000143</integer>
+									<integer>400040958</integer>
 									<key>MacroActionType</key>
 									<string>SelectMenuItem</string>
 									<key>Menu</key>
@@ -2290,7 +2295,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 							<key>ActionColor</key>
 							<string>Red</string>
 							<key>ActionUID</key>
-							<integer>400039330</integer>
+							<integer>400040959</integer>
 							<key>MacroActionType</key>
 							<string>UseVariable</string>
 							<key>Variable</key>
@@ -2298,7 +2303,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 						</dict>
 						<dict>
 							<key>ActionUID</key>
-							<integer>400039331</integer>
+							<integer>400040960</integer>
 							<key>MacroActionType</key>
 							<string>SetVariableToText</string>
 							<key>Text</key>
@@ -2324,7 +2329,7 @@ CHECK: For the macro to work, the different images must be one after the other i
 	<key>CustomIconData</key>
 	<string>KMEC=Square=KMCOLOR:102,204,255,255=function=86=-2=0=3=KMCOLOR:255,255,255,255</string>
 	<key>ModificationDate</key>
-	<real>815680191.63951004</real>
+	<real>815942642.35297704</real>
 	<key>Name</key>
 	<string>ik_2MoveImage+ imageSpa SHUFFLE3.0</string>
 	<key>Triggers</key>
