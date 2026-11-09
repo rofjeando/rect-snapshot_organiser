@@ -224,3 +224,19 @@ groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
 Old size: 72060 bytes
 New size: 72062 bytes
 ——————————————
+ 20261109_19:57 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+Anchor POINT Selector. | EECD93B3-838A-4BC4-9B1D-BC7B410C2749 |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: Anchor POINT Selector.kmmacros
+Old size: stat: /Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros/Anchor POINT Selector.kmmacros: stat: No such file or directory
+0 bytes
+New size: 71494 bytes
+——————————————
+20261109_19:57 	/Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros
+ik_1Collect XYWHR to Align images. | CB73E689-9701-4E68-ADF2-A490B861BBB9 |groupUUID: 4846D329-A105-4BDC-90E5-F317B45442CE
+groupName: __PaletteAffinityDesigner    ⌃ ⌥ P |.
+✅ Exported: ik_1Collect XYWHR to Align images.kmmacros
+Old size: stat: /Users/tsukadjed/Library/CloudStorage/Dropbox/Automation/rect-snapshot_organiser/implementation/km_macros/ik_1Collect XYWHR to Align images.kmmacros: stat: No such file or directory
+0 bytes
+New size: 104372 bytes
+——————————————
